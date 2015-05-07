@@ -1,0 +1,11 @@
+{
+  "name": "RR-server",
+  "version": "0.0.1",
+  "description": "A simple node server for preparing JSON",
+  "dependencies": {
+    "express": "~4.10.x",
+    "path": "~0.4.9",
+    "mongoose": "^3.8.x",
+    "body-parser": "~1.9.1"
+  }
+}
